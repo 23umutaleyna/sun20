@@ -1,4 +1,2 @@
 print("merhaba");
 print("merhaba artun");
-print("ömer faruk");
-print("osman çınar");
